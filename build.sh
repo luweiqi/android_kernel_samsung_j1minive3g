@@ -112,7 +112,7 @@ function select_device() {
 		1) export DEFCONFIG=rz_cpve_defconfig
 		   export DEVICE="Samsung Galaxy Core Prime SM-G361H"
 		   menu;;
-		2) export DEFCONFIG=grandprimeve3g_defconfig
+		2) export DEFCONFIG=rz_gpve_defconfig
 		   export DEVICE="Samsung Galaxy Grand Prime SM-G531H"
 		   menu;;
 	esac
